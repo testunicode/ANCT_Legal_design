@@ -1,3 +1,3 @@
-[submodule "/ANCT_Legal_design"] 
-  path = /ANCT_Legal_design 
+[submodule "/legal-design-license-ouverte"] 
+  path = /legal-design-license-ouverte 
   url = git@github.com:testunicode/ANCT_Legal_design.git
